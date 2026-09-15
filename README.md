@@ -613,25 +613,6 @@ Therefore:
 
 ---
 
-# 👥 Team Contributions
-
-This project was developed as a collaborative team project.
-
-The final team section should list the actual members and their responsibilities.
-
-Possible contribution areas include:
-
-- Problem analysis
-- Project planning
-- Python development
-- Object-Oriented Programming
-- UI development
-- Testing
-- Documentation
-- Presentation
-- SDG research
-- Project demonstration
-
 ---
 
 # 🎥 Project Demonstration

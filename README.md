@@ -613,16 +613,6 @@ Therefore:
 
 ---
 
----
-
-# 🎥 Project Demonstration
-
-Add the final project demonstration video link here:
-
-**Demo Video:** *Coming soon*
-
----
-
 # 🔗 Source Code
 
 The main application source code is:

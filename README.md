@@ -654,6 +654,17 @@ The repository also contains the screenshots used in this README.
 
 ---
 
+# 👥 Team Contributions
+
+This project was developed collaboratively by four team members, with each member responsible for a specific part of the project.
+
+| **Team Member** | **Role** | **Contribution** |
+|---|---|---|
+| **Satvik** | Documentation & GitHub | Prepared the project documentation, organized the GitHub repository, maintained the README, and documented the project's features and technical details. |
+| **Kanav** | Python Development | Developed the main Python application, including the OOP structure, waste-management logic, analysis features, recommendation engine, simulator, and Tkinter interface. |
+| **Nipun** | Presentation | Prepared the project presentation and organized the key points used to explain TerraLoop, its features, technical approach, and impact. |
+| **Tanvi** | Video & Demonstration | Created the project demonstration video and explained the project, including its features and working. |
+
 # 🏁 Conclusion
 
 TerraLoop demonstrates how **Python, Object-Oriented Programming, data analysis, graphical interfaces, and sustainability concepts** can be combined to create a practical technology solution.

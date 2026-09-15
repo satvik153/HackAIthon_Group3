@@ -244,23 +244,6 @@ TerraLoop follows a modular architecture where different classes handle differen
 
 ---
 
-# 📁 Project Structure
-
-```text
-TerraLoop/
-│
-├── First.py
-├── README.md
-│
-└── images/
-    ├── Screenshot 2026-09-14 192722.png
-    ├── Screenshot 2026-09-14 192743.png
-    ├── Screenshot 2026-09-14 192803.png
-    ├── Screenshot 2026-09-14 192820.png
-    ├── Screenshot 2026-09-14 192833.png
-    └── Screenshot 2026-09-14 192844.png
-```
-
 ---
 
 # ⚙️ Installation
